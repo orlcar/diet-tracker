@@ -15,8 +15,10 @@ The website uses Bootstrap 3.4.1, jQuery 3.31, bootstrap-datepicker, and bootstr
 
 ## Diet Tracker Website
 
+### Diet Tracker Main Webpage
 ![Diet Tracker Main Page](images/diet_tracker.png)
 
+### Diet Tracker Search Results Webpage
 ![Diet Search Results 1](images/diet_search_1.png)
 
 ![Diet Search Results 2](images/diet_search_2.png)
