@@ -60,7 +60,7 @@
 					echo '<h5>There was an error processing your request. Please contact the website adminstrator.</h5>';
 					echo '<h5>Click on the following link to go back to the diet tracker home page.</h5>';
 					echo '<br>';
-					echo '<h4><a href="http://localhost/projects/diettracker_ajax_test.php">Main Diet Tracker Page</a></h4>';
+					echo '<h4><a href="http://localhost/projects/diettracker.php">Main Diet Tracker Page</a></h4>';
 					echo '<br>';
 				echo '</div>';
 				die();
@@ -76,7 +76,7 @@
 				echo '<h5>There was an error processing your request. Please contact the website adminstrator.</h5>';
 				echo '<h5>Click on the following link to go back to the diet tracker home page.</h5>';
 				echo '<br>';
-				echo '<h4><a href="http://localhost/projects/diettracker_ajax_test.php">Main Diet Tracker Page</a></h4>';
+				echo '<h4><a href="http://localhost/projects/diettracker.php">Main Diet Tracker Page</a></h4>';
 				echo '<br>';
 			echo '</div>';
 			die();
@@ -148,7 +148,7 @@
 					echo '<h5>There was an error processing your request. Please contact the website adminstrator.</h5>';
 					echo '<h5>Click on the following link to go back to the diet tracker home page.</h5>';
 					echo '<br>';
-					echo '<h4><a href="http://localhost/projects/diettracker_ajax_test.php">Main Diet Tracker Page</a></h4>';
+					echo '<h4><a href="http://localhost/projects/diettracker.php">Main Diet Tracker Page</a></h4>';
 					echo '<br>';
 				echo '</div>';
 				die();
@@ -165,7 +165,7 @@
 				echo '<h5>There was an error processing your request. Please contact the website adminstrator.</h5>';
 				echo '<h5>Click on the following link to go back to the diet tracker home page.</h5>';
 				echo '<br>';
-				echo '<h4><a href="http://localhost/projects/diettracker_ajax_test.php">Main Diet Tracker Page</a></h4>';
+				echo '<h4><a href="http://localhost/projects/diettracker.php">Main Diet Tracker Page</a></h4>';
 				echo '<br>';
 			echo '</div>';
 			die();
